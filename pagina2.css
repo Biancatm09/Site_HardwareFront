@@ -1,0 +1,25 @@
+
+table{
+    height: 100vh;
+    width: 100%;
+}
+#imgMonte{
+    width: 20vh
+}
+
+#imagem1{
+    height: 20%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#imagem2{
+    height: 20%;
+    text-align: center;
+}
+#tituloMonte{
+    padding-left: 200px;
+}
+.opcoes h2{
+    padding: 33px;
+    padding-left: 0px;
+}

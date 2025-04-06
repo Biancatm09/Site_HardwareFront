@@ -1,0 +1,33 @@
+table{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(160, 156, 156);
+}
+#logo{
+ width: 4px;   
+}
+#escrita{
+    font-size: large;
+    text-align: center;
+}
+#titulo{
+    text-align: center;
+    font-family:  "Kumar One", serif;
+}
+#insta{
+    color: black;
+}
+#canalYout{
+    color: black;
+}
+#telefone{
+    width: 10%;
+    height: 2vh;
+}
+#sobreNos{
+    text-align: center;
+    font-family:  "Kumar One", serif;
+}
+#img{
+    text-align: center;
+}

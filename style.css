@@ -1,0 +1,107 @@
+table{
+    height: 100vh;
+    width: 100%;
+    
+}
+#linha1{
+height: 5px;
+}
+#coluna1{
+    width: 5%;
+}
+
+#car{
+    width: 10%;
+}
+#linha2{
+    background-color: rgb(49, 111, 247);
+    height: 20vh;
+    width: 5px;
+}
+#coluna3{
+    width: 10px;
+}
+#titulo{
+   text-align: center;
+  font-family: "Zen Tokyo Zoo", system-ui;
+ font-size: 100px;
+ width: 40%;
+}
+#barraPesquisa{
+    height:auto;
+    text-align: center;
+    background-color: rgba(154, 168, 253, 0.479);
+    border-radius: 50px;
+    font-family: "Kumbh Sans", sans-serif ;
+    font-size: 30px;
+    width: 100%;
+    color: rgba(146, 160, 255, 0.73);
+}
+
+#tdPesquisa{
+    width: 15%;
+    height: 100px;
+    vertical-align: top;
+}
+#central{
+    background-color: rgb(1, 1, 90);
+    border-radius: 45px;
+    width:20%;
+    height: 40%;
+    text-align: center;
+    font-family: "Kumbh Sans", sans-serif ;
+    color: aliceblue;
+    font-size: 30px;
+}
+#central2{
+    background-color:  rgb(1, 1, 90);
+    border-radius: 45px;
+    width: 20%;
+    text-align:center;
+    font-family:"Kumbh Sans", sans-serif ;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+
+#central3{
+    background-color:  rgb(1, 1, 90);
+    border-radius: 45px;
+    width: 20%;
+    text-align:center;
+    font-family:"Kumbh Sans", sans-serif ;
+    color: aliceblue;
+    font-size: 30px;
+}
+#central4{
+    border-radius: 45px;
+    background-color:  rgb(1, 1, 90);
+    width: 25%;
+    text-align:center;
+    font-family:"Kumbh Sans", sans-serif ;
+    color: aliceblue;
+    font-size: 25px;
+}
+#linha1{
+    width: 170px;
+   
+}
+#linha17{
+    width: 270px;
+}
+#coluna2{
+    width: 5%;
+}
+#coluna3_ln1{
+    width: 5%;
+}
+#ofertas{
+   width: 75%;
+   color: rgb(255, 255, 255);
+}
+#monte{
+    height: 70%;
+}
+#pagina2{
+    color: aliceblue;
+}
